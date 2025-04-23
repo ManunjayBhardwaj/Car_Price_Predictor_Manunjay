@@ -1,6 +1,6 @@
 # Car Price Prediction App 🚗💰
 
-### Link of the app:
+### Link of the app: https://carpricepredictormanunjay-m5evnuswxkqra6t2rr35es.streamlit.app
 
 This is a **Car Price Prediction App** that allows users to predict the selling price of a car based on various attributes such as fuel type, transmission, year of manufacture, kilometers driven, and more. The app uses a **Linear Regression** model trained on historical car data.
 
